@@ -1,0 +1,6 @@
+{
+  "name": "VAELIN — Luxury Architectural Residences",
+  "description": "A cinematic international luxury architectural real-estate brand featuring scroll-driven building reveals, monolithic travertine pavilions, and refined residential living.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
